@@ -1,0 +1,8 @@
+super: true
+name: Test
+id: c704a759-487f-47b5-acb5-0fd7d6146cff
+password_hash: $2y$10$V6rYPu.a4CFEeywrBi9hLu3XHjHortyLceTldfGhsA5TQFxKphf0a
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing
